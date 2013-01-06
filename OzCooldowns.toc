@@ -1,9 +1,9 @@
-## Interface: 50100
+﻿## Interface: 50100
 ## DefaultState: Enabled
-## Title: |cFF00FFFFOz|rCooldowns |cffC495DDTukui|r / |cff1784d1ElvUI|r Edition
+## Title: |cFF00FFFFOz|rCooldowns |cFFFF7D0Ag|r|cFFFFBB00UI|r|cFFFFFFFF™|r Edition
 ## Author: Nimaear, Azilroka
 ## Version: 2.0
-## OptionalDeps: Tukui, ElvUI, gUI-v3
+## RequiredDeps: gUI-v3
 ## SavedVariables: OzCooldownsOptions
 ## Notes: Cooldowns
 
